@@ -11,43 +11,29 @@ The platform ingests financial and regulatory documents, applies machine learnin
 FinFlow AI is built with compliance-first architecture, ensuring transparency, traceability, and human oversight at every decision point.
 
 ### Problem Statement
-
 Financial institutions face persistent operational bottlenecks due to:
-
-Manual document review and validation
-
-Rigid rule-based workflows that don’t scale
-
-High regulatory and compliance risk
-
-Poor visibility into AI-driven decisions
-
-Inefficient escalation to human reviewers
+* Manual document review and validation
+* Rigid rule-based workflows that don’t scale
+* High regulatory and compliance risk
+* Poor visibility into AI-driven decisions
+* Inefficient escalation to human reviewers
 
 These challenges increase processing times, costs, and exposure to regulatory penalties.
 
 ### Solution
-
 FinFlow AI automates routine decisions while safely escalating complex or high-risk cases, combining:
-
-Intelligent document ingestion
-
-Machine learning + LLM-assisted analysis
-
-Confidence-based routing
-
-Human-in-the-loop workflows
-
-Full audit and compliance traceability
+* Intelligent document ingestion
+* Machine learning + LLM-assisted analysis
+* Confidence-based routing
+* Human-in-the-loop workflows
+* Full audit and compliance traceability
 
 ### Key Capabilities
 ### 1. Intelligent Document Ingestion
-
-Supports PDFs, structured forms, and JSON inputs
-
+* Supports PDFs, structured forms, and JSON inputs
+* 
 Ingests:
-
-Loan applications
+       * Loan applications
 
 Insurance claims
 
