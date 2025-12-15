@@ -31,8 +31,7 @@ FinFlow AI automates routine decisions while safely escalating complex or high-r
 ### Key Capabilities
 ### 1. Intelligent Document Ingestion
 * Supports PDFs, structured forms, and JSON inputs
-* 
-Ingests:
+* Ingests:
        * Loan applications
 
 Insurance claims
