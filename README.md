@@ -32,9 +32,9 @@ FinFlow AI automates routine decisions while safely escalating complex or high-r
 ### 1. Intelligent Document Ingestion
 - Supports PDFs, structured forms, and JSON inputs
 - Ingests:
-      - Loan applications
-      - Insurance claims
-      - KYC / AML documentation
+ - Loan applications
+ - Insurance claims
+ - KYC / AML documentation
 
 Automated checks for:
 
